@@ -24,4 +24,4 @@ paternal.fa: The simulated paternal genome.
 simulated_snp.txt: All the simulated SNPs.
 
 
-The file simulated_snp.txt in this repository records all the simulated SNPs that have been used in our paper.
+The file simulated_snp.txt in this repository records all the simulated SNPs that were used in our paper.
